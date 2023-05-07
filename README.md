@@ -94,9 +94,9 @@ To add a new dependency:
 
 ![Alt text](/images/barnsley-fern.png?raw=true "Barnsley Fern")
 
-### Altnernate Barnsley Fern
+### Altnernative Barnsley Fern
 
-![Alt text](/images/alt-barnsley-fern.png?raw=true "Alternate Barnsley Fern")
+![Alt text](/images/alt-barnsley-fern.png?raw=true "Alternative Barnsley Fern")
 
 ### Culcita
 
