@@ -1,6 +1,6 @@
 # Barnsley Fern
 
--- BADGE --
+[![pre-commit hooks](https://github.com/Sylruilshu/barnsley-fern/actions/workflows/ci.yaml/badge.svg)](https://github.com/Sylruilshu/barnsley-fern/actions/workflows/ci.yaml)
 
 ## Overview
 
