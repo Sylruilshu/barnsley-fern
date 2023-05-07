@@ -43,7 +43,6 @@ def generate_fractal_point(
     affine_transformation_mapping: AffineTransformationMapping,
     scaling_function_mapping: ScalingFunctionMapping,
 ) -> Point:
-
     index = np.random.choice(affine_transformation_indexes, p=probabilities)
     x, y = transform_point(x, y, affine_transformation_mapping[index])
     return scale_point(x, y, width, height, scaling_function_mapping)
