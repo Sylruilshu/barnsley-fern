@@ -62,7 +62,7 @@ This project aims to explore self-similar sets using an iterated function system
     python barnsley_fractals.py --help
     ```
 
-- To generate the triangle using sensible defaults, run:
+- To generate the fractals using sensible defaults, run:
 
     ```bash
     python barsnley_fractals.py
