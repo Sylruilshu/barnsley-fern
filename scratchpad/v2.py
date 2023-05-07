@@ -44,7 +44,6 @@ canvas.configure(scrollregion=(-500, -500, 500, 500))
 random_point = (0, 0)
 
 for _ in range(100):
-
     random_num = randint(1, 100)
 
     # if random_num == 1:
