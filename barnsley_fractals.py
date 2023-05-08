@@ -121,7 +121,3 @@ def main(
 
 
 main()
-
-
-# pixels = 5000
-# iterations = 10000000
