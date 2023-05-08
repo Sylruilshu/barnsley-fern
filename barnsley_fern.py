@@ -52,6 +52,6 @@ for _ in range(iterations):
 
 image.show()
 
-# Uncomment line 57-58 to save the image.
+# Uncomment lines 56-57 to save the image.
 # os.makedirs("images", exist_ok=True)
 # image.save("images/barnsley_fern.png", quality=95)
